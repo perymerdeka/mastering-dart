@@ -127,7 +127,7 @@ output
 feri bilang ke budi salam kenal si budi bilang saya berasal dari jepara
 ```
 
-> Note: keunggulan `optional named parameter` ini tidak harus urut karena sudah di devinisikan dengan nama
+> Note: keunggulan `optional named parameter` ini tidak harus urut karena sudah di definisikan dengan nama
 
 contoh lainya
 
@@ -242,7 +242,7 @@ hasilnya
 feri mengirim halo to budi
 ```
 
-### Defeult Parameter value
+### Default Parameter value
 
 adalah parameter fungsi yang memiliki nilai awal (`default`) jadi jika gak diisi maka nilai parameternya
 akan diisi oleh nilai awal tadi

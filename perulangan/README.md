@@ -17,7 +17,7 @@ berikut adalah bebercara cara melakukan perulangan
 * **`while`**
 * **`do while`**
 
-#### Perulanan For
+#### Perulangan For
 
 pembuatannya sama seperti perulangan dalam `C` contoh
 
