@@ -263,6 +263,11 @@ isi dari b adalah 11
 Process finished with exit code 0
 ```
 
+### Referensi dan Resource
+
+* [dokumentasi](https://dart.dev/guides/language/language-tour#control-flow-statements)
+
 ---
+
 
 [Percabangan](../percabangan/README.md)  <> [Fungsi, parameter Lambda Expression](../fungsi/README.md)
