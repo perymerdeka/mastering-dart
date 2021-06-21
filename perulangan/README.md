@@ -262,3 +262,7 @@ isi dari b adalah 11
 
 Process finished with exit code 0
 ```
+
+---
+
+[Percabangan](../percabangan/README.md)  <> [Fungsi, parameter Lambda Expression](../fungsi/README.md)
