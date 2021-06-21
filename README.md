@@ -10,9 +10,9 @@ Repo for Teach Yourself mastering dart programming language
 
 ### Referensi dan Sumber Belajar
 
-Channel youtube : https://www.youtube.com/user/kh3w4nx1ng
-Dokumentasi Flutter: https://flutter.dev/docs
-Komunitas flutter (telegram): https://t.me/flutter_id
-Artikel update: https://t.me/flutterDev 
-Forum Diskusi: https://github.com/flutter/flutter
-Medium Publisher: https://medium.com/flutter-community
+* Channel youtube : https://www.youtube.com/user/kh3w4nx1ng
+* Dokumentasi Flutter: https://flutter.dev/docs
+* Komunitas flutter (telegram): https://t.me/flutter_id
+* Artikel update: https://t.me/flutterDev 
+* Forum Diskusi: https://github.com/flutter/flutter
+* Medium Publisher: https://medium.com/flutter-community
