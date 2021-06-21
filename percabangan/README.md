@@ -133,6 +133,9 @@ main(List<String> args) {
 
 ![contoh switch](docs/img/switch.png)
 
+### Resource dan Referensi
+
+* [Dokumentasi](https://dart.dev/guides/language/language-tour#control-flow-statements)
 ---
 
-[aplikasi pertama](../aplikasi_pertama/README.md) <> [percabangan]() *Chapter ini*
+[aplikasi pertama](../aplikasi_pertama/README.md) <> [perulangan](../perulangan/README.md) *Chapter ini*
