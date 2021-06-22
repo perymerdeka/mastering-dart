@@ -776,4 +776,4 @@ angka ke 60
 
 ---
 
-[fungsi dan Parameter](../fungsi/README.md) <> [Class dan Object]()
+[fungsi dan Parameter](../fungsi/README.md) <> [Class dan Object](../class_objects/README.md)
