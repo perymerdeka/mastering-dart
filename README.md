@@ -7,6 +7,7 @@ Repo for Teach Yourself mastering dart programming language
 2. [Percabangan](percabangan/README.md)
 3. [Perulangan](perulangan/README.md)
 4. [Fungsi, Parameter dan lambda Expression](fungsi/README.md)
+5. [List, Set dan Mapping](mapping/README.md)
 
 
 ### Referensi dan Sumber Belajar

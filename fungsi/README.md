@@ -357,4 +357,4 @@ hasil perhitungan 30
 
 ---
 
- [Perulangan](../perulangan/README.md) <> [List dan Mapping]()
+ [Perulangan](../perulangan/README.md) <> [List dan Mapping](../mapping/README.md)
