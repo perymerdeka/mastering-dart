@@ -10,6 +10,8 @@ Repo for Teach Yourself mastering dart programming language
 5. [List, Set dan Mapping](mapping/README.md)
 6. [Class dan Object](class_objects/README.md)
 7. [Enkapsulasi](enkapsulasi/README.md)
+8. [Pewarisan/Inheritence](inherit/README.md)
+
 
 
 ### Referensi dan Sumber Belajar
