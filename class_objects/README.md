@@ -86,4 +86,4 @@ disini kita membuat method `hitungLuas()` untuk menghitung luas persegi panjang.
 
 ---
 
-[List dan Mapping](../mapping/README.md) <> [Enkapsulasi]()
+[List dan Mapping](../mapping/README.md) <> [Enkapsulasi](../enkapsulasi/README.md)
