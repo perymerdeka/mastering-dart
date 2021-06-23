@@ -313,7 +313,7 @@ abstract class DemonSlayer {
 }
 ```
 
-kemudian kita extends 
+kemudian kita implements 
 
 ```dart
 // lib/monster_dragon.dart
@@ -337,4 +337,4 @@ class MonsterDragon extends MonsterUbur implements FlyingMonster, DemonSlayer {
 
 ---
 
-[inheritance](../inherit/README.md)  <>  [Mixins]()
+[inheritance](../inherit/README.md)  <>  [Mixins](../mixins/README.md)
