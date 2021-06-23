@@ -11,7 +11,7 @@ Repo for Teach Yourself mastering dart programming language
 6. [Class dan Object](class_objects/README.md)
 7. [Enkapsulasi](enkapsulasi/README.md)
 8. [Pewarisan/Inheritence, keyword `is` dan`as` ](inherit/README.md)
-
+9. [Abstract Class dan Interface](absract_class/README.md)
 
 ### Referensi dan Sumber Belajar
 

@@ -313,4 +313,4 @@ yummy
 
 ---
 
-[enkapsulasi](../enkapsulasi/README.md)  <> [Abstract Class]()
+[enkapsulasi](../enkapsulasi/README.md)  <> [Abstract Class](../absract_class/README.md)
