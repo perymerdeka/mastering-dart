@@ -164,4 +164,4 @@ mbeerr
 
 ---
 
-[Abstract Class dan Interface](../absract_class/README.md) <> [Constructor]()
+[Abstract Class dan Interface](../absract_class/README.md) <> [Constructor](../constructors/README.md)
