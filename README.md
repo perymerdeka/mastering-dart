@@ -10,11 +10,13 @@ Repo for Teach Yourself mastering dart programming language
 5. [List, Set dan Mapping](mapping/README.md)
 6. [Class dan Object](class_objects/README.md)
 7. [Enkapsulasi](enkapsulasi/README.md)
-8. [Pewarisan/Inheritence](inherit/README.md)
-
+8. [Pewarisan/Inheritence, keyword `is` dan`as` ](inherit/README.md)
 
 
 ### Referensi dan Sumber Belajar
+
+
+#### Flutter
 
 * Channel youtube : https://www.youtube.com/user/kh3w4nx1ng
 * Dokumentasi Flutter: https://flutter.dev/docs
@@ -22,3 +24,6 @@ Repo for Teach Yourself mastering dart programming language
 * Artikel update: https://t.me/flutterDev 
 * Forum Diskusi: https://github.com/flutter/flutter
 * Medium Publisher: https://medium.com/flutter-community
+
+#### Dart
+* [Dokumentasi Dart](https://dart.dev/guides/)

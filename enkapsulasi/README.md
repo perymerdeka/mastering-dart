@@ -228,4 +228,4 @@ outputnya sama aja
 
 ---
 
-[class dan object](../class_objects/README.md) <> [inheritance]()
+[class dan object](../class_objects/README.md) <> [inheritance](../inherit/README.md)
