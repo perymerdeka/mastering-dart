@@ -15,7 +15,7 @@ Repo for Teach Yourself mastering dart programming language
 10. [Mixins](mixins/README.md)
 11. [Constructor](constructors/README.md)
 12. [Parameter Underscore](underscore_parameter/README.md)
-
+13. [Static Keywords](static_keywords/README.md)
 
 ### Referensi dan Sumber Belajar
 

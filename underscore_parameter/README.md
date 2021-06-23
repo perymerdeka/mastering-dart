@@ -87,4 +87,4 @@ learn code everyday
 ```
 
 ---
-[Constructor](../constructors/README.md)  <>  [Static Keywords]()
+[Constructor](../constructors/README.md)  <>  [Static Keywords](../static_keywords/README.md)
