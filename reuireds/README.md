@@ -108,4 +108,4 @@ void main(List<String> arguments) {
 ```
 
 ---
-[Enum dan Cascade Notation](../enums/README.md) <> []()
+[Enum dan Cascade Notation](../enums/README.md) <> [Custom Sort dan ForEach](../custom_sort/README.md)
