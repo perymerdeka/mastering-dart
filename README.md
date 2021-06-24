@@ -17,6 +17,7 @@ Repo for Teach Yourself mastering dart programming language
 12. [Parameter Underscore](underscore_parameter/README.md)
 13. [Static Keywords](static_keywords/README.md)
 14. [Async Await dan Future](async_await/README.md)
+15. [Final dan Const](final_const/README.md)
 
 ### Referensi dan Sumber Belajar
 

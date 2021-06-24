@@ -47,4 +47,4 @@ job3: joko // ini akan ditungu 3 detik
 
 ---
 
-[static keywords](../static_keywords/README.md) <> []()
+[static keywords](../static_keywords/README.md) <> [Final dan Const](../final_const/README.md)
