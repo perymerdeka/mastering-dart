@@ -18,6 +18,7 @@ Repo for Teach Yourself mastering dart programming language
 13. [Static Keywords](static_keywords/README.md)
 14. [Async Await dan Future](async_await/README.md)
 15. [Final dan Const](final_const/README.md)
+16. [Generic dan Generic Type](generic/README.md)
 
 ### Referensi dan Sumber Belajar
 

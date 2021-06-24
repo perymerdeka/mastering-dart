@@ -106,4 +106,4 @@ true
 * konstata hanya bisa di dekarasikan di `top level` `local` atau `static field
 
 ---
-[Async Await](../async_await/README.md) <>  [Generic dan Generic Type Dart]()`
+[Async Await](../async_await/README.md) <>  [Generic dan Generic Type Dart](../generic/README.md)`
