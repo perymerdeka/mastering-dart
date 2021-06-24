@@ -86,4 +86,4 @@ Ucoa is Eating
 
 --- 
 
-[Generic dan Generic Type](../generic/README.md)  <> [Required, Assert dan Try Catch]()
+[Generic dan Generic Type](../generic/README.md)  <> [Required, Assert dan Try Catch](../reuireds/README.md)

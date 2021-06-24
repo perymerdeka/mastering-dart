@@ -20,6 +20,7 @@ Repo for Teach Yourself mastering dart programming language
 15. [Final dan Const](final_const/README.md)
 16. [Generic dan Generic Type](generic/README.md)
 17. [Enum dan Cascade Notation](enums/README.md)
+18. [Required, Assert dan Try Catch](reuireds/README.md)
 
 
 ### Referensi dan Sumber Belajar
