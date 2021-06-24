@@ -19,6 +19,8 @@ Repo for Teach Yourself mastering dart programming language
 14. [Async Await dan Future](async_await/README.md)
 15. [Final dan Const](final_const/README.md)
 16. [Generic dan Generic Type](generic/README.md)
+17. [Enum dan Cascade Notation](enums/README.md)
+
 
 ### Referensi dan Sumber Belajar
 

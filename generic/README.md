@@ -56,4 +56,4 @@ hasilnya
 
 ---
 
-[Final dan Const](../final_const/README.md)  <> []
+[Final dan Const](../final_const/README.md)  <> [Enum dan Cascade Notation](../enums/README.md)
