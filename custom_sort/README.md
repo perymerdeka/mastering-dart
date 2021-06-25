@@ -281,4 +281,4 @@ User - 20
 
 ---
 
-[Required, Assert dan Try Catch](../reuireds/README.md) <> [Solid Principle]()
+[Required, Assert dan Try Catch](../reuireds/README.md) <> [Solid Principle](../solid_principle/README.md)
