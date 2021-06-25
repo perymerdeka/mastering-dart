@@ -237,4 +237,4 @@ sekarang kita lihat bahwa `High Level Module` bergantung patda `abstraction` tap
 
 ---
 
-[Custom Sort dan For Each](../custom_sort/README.md) <> [Operator Overriding]()
+[Custom Sort dan For Each](../custom_sort/README.md) <> [Operator Overriding](../operator_overriding/README.md)

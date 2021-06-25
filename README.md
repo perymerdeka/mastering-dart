@@ -23,6 +23,7 @@ Repo for Teach Yourself mastering dart programming language
 18. [Required, Assert dan Try Catch](reuireds/README.md)
 19. [Custom Sort dan ForEach](custom_sort/README.md)
 20. [Solid Principle](solid_principle/README.md)
+21. [Operator Override](operator_overriding/README.md)
 
 
 ### Referensi dan Sumber Belajar
