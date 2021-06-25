@@ -24,6 +24,8 @@ Repo for Teach Yourself mastering dart programming language
 19. [Custom Sort dan ForEach](custom_sort/README.md)
 20. [Solid Principle](solid_principle/README.md)
 21. [Operator Override](operator_overriding/README.md)
+22. [Singleton](singleton/README.md)
+23. [Future Or](furure_or/README.md)
 
 
 ### Referensi dan Sumber Belajar

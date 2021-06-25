@@ -57,4 +57,4 @@ true
 
 ---
 
-[Solid Principle](../solid_principle/README.md)  <> [Singleton]()
+[Solid Principle](../solid_principle/README.md)  <> [Singleton](../singleton/README.md)
