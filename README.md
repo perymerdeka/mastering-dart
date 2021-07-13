@@ -31,10 +31,6 @@ Repo for Teach Yourself mastering dart programming language
 
 ### Referensi dan Sumber Belajar
 
-#### Dart
-
-* https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo
-
 #### Flutter
 
 * Channel youtube (rekomendasi) : https://www.youtube.com/user/kh3w4nx1ng
@@ -46,3 +42,4 @@ Repo for Teach Yourself mastering dart programming language
 
 #### Dart
 * [Dokumentasi Dart](https://dart.dev/guides/)
+* [playlist untuk belajar dart](https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo)
