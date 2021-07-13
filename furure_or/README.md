@@ -76,4 +76,4 @@ hasilnya ketika kita menunggu 3 detik hasilnya
 
 ---
 
-[Singleton](../singleton/README.md) <> Selesai
+[Singleton](../singleton/README.md) <> [tipe data `var` dan `dynamic`](../dynamic_vars/README.md)

@@ -26,14 +26,18 @@ Repo for Teach Yourself mastering dart programming language
 21. [Operator Override](operator_overriding/README.md)
 22. [Singleton](singleton/README.md)
 23. [Future Or](furure_or/README.md)
+24. [tipe data `dynamic` dan `var`](dynamic_vars/README.md) <- update tgl: 14 juli 2021
 
 
 ### Referensi dan Sumber Belajar
 
+### Dart
+
+* [referensi channel youtube untuk belajar dart](https://www.youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo)
 
 #### Flutter
 
-* Channel youtube : https://www.youtube.com/user/kh3w4nx1ng
+* Channel youtube (rekomendasi) : https://www.youtube.com/user/kh3w4nx1ng
 * Dokumentasi Flutter: https://flutter.dev/docs
 * Komunitas flutter (telegram): https://t.me/flutter_id
 * Artikel update: https://t.me/flutterDev 
