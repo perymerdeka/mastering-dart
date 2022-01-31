@@ -1,6 +1,6 @@
 ### Operator Override
 
-cara melakukan `operator override` adalah methode pengantian operasi ketika berbetda tipe data atau sedang membandingkan tipe data
+Cara melakukan `operator override` adalah metode penggantian operasi ketika berbeda tipe data atau sedang membandingkan tipe data
 
 ```dart
 void main(List<String> arguments) {
