@@ -33,7 +33,7 @@ void main(List<String> arguments) {
   if (service1 == service2) {
     print('sama');
   } else {
-    print('sama');
+    print('tidak sama');
   }
 }
 ```
